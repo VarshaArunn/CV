@@ -2,7 +2,7 @@
 
 _Software engineer and CRM Analyst based in Lansing 🇩🇪_ <br>
 
-[Email](varshaarunkumarr@gmail.com) / [Website]() / [HackerRank](https://www.hackerrank.com/profile/varshamadakannu) / [GitHub](https://github.com/VarshaArunn) / [Twitter]() 
+[Email](varshaarunkumarr@gmail.com) / [Medium](https://medium.com/@varshaarunkumarr) / [HackerRank](https://www.hackerrank.com/profile/varshamadakannu) / [GitHub](https://github.com/VarshaArunn) / [Twitter]() 
 
 ## 👩🏼‍💻 Engineering Experience
 
